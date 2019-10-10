@@ -1,2 +1,2 @@
 # ldaw_binas
-Repositorio para el proyecto en binas de la materia LDAW
+Repositorio para el proyecto en binas de la materia LDAW 2019
